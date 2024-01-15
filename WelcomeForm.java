@@ -3,9 +3,8 @@ package edu.bhcc;
  * @author A.b Almasri
  * Date: 12/14/2023
  * @version
- * .0
- * 
- * Class: CSC-239-04H
+ * 2.0
+ *
 */
 
 import javafx.application.Application;
