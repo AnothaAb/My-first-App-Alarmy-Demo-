@@ -4,8 +4,7 @@ package edu.bhcc;
  * Date: 12/14/2023
  * @version
  * 2.0
- * 
- * Class: CSC-239-04H
+ *
 */
 
 /**
