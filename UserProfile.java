@@ -5,7 +5,6 @@ package edu.bhcc;
  * @version
  * 2.0
  *
- * Class: CSC-239-04H
  */
 import java.io.FileWriter;
 import java.io.IOException;
